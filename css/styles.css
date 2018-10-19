@@ -1,0 +1,29 @@
+* {
+    font-family: fantasy;
+    background-color: antiquewhite
+}
+
+.introparagraph {
+    font-family: serif;
+    padding-left: 40px
+}
+
+.list {
+    font-family: serif
+}
+
+img {
+    box-shadow: 10px 10px #7c7c7c;
+}
+
+.homepagepic {
+    height: 250px;   
+}
+
+.historypagepic {
+    height: 400px;
+}
+
+.abilitiespagepic {
+    height: 300px;
+}
